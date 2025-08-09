@@ -1,4 +1,4 @@
-# 📜 Certifications and Completed Courses
+# 📜 Certifications
 
 This repository documents some of the certifications and courses I have completed.
 ---
